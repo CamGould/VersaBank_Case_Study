@@ -19,3 +19,21 @@ Due to the success *VersaBank* has seen in the digital banking and lending indus
 As *VersaBank* continues to grow, I would advise them to continue to focusing on growing their individual finacial options concerning cryptocurrenices and digital assests as well as their growing their team dedicated to residentail housing developments. Canada, but specifically Ontario, is limited when it comes to what crypto trading and assest management platforms are availble to Ontarians. Continuing to grow their ‘digital saftey deposit boxes’ would allow more canadians security and lowered risk when emerging in the crypto enviroment. As well, if they contiuned to expand their stablecoin options availble, they could provide Canadians with increased investment opportunities while maintaining the safety and stability of a traditional banking/investing system. I think that offering an expansion of these services would continue to grow the bank’s customer base while capturing some of the personal investment market they previously are scarce in. These technologies would expand on the same technologies the company has already developed, while offering more utility to the user through increased selection and diversity. These technologies would be approperiate because *VersaBank* has already developed the underlying technologies and securities and would only increase utility to their users.
 
 Another focus I think *VersaBank* should explore involves merging their CryptoVault with their loan/investing buisnesses. I think they should explore the idea of allowing members holding digital assets in their CryptoVault to loan these assets to devlopers in need of capital. In this case *VersaBank* would act as an intermediary linking those in need of captial with those who would be willing to loan through using their digital holdings. In this case *VersaBank* has the potentail of attracting new crypto users to their bank through their loan opportunities availible. This would intice crypto holders to use their bank due to the lending opportunities availible to them. It would also intice those looking for capital loans as it would provide another option for them to explore. Finally, it would benefit *VersaBank* as they would collect a percentage of these transactions which would have otherwise not been done through their platform.   
+
+## Addendum 
+[VersaBank - About](https://www.versabank.com/about/)
+[VersaBank - Celebrates 40 Years](https://www.versabank.com/versabank-celebrates-40-years-as-canadas-bank-of-the-future/)
+[Crunchbase - VersaBank](https://www.crunchbase.com/organization/versabankg)
+[CBJ - VersaBank](https://www.cbj.ca/versabank/)
+[Crunchbase - VersaBank Company Financials](https://www.crunchbase.com/organization/versabank/company_financials)
+[Yahoo Finance - VersaBank](https://finance.yahoo.com/quote/VBNK/)
+[VersaBank - At a Glance](https://www.versabank.com/about/at-a-glance/)
+[DNB - VersaBank](https://www.dnb.com/business-directory/company-profiles.versabank.9e0aee52c866f6417b7df9aed64c7881.html)
+[Buisness Wire - VersaBank Bulk Purchase](https://www.businesswire.com/news/home/20160920006395/en/VersaBank-Exceeds-750-Million-Milestone-Bulk-Purchase)
+[Forbes - Digital Banking Trends](https://www.forbes.com/sites/lizfrazierpeck/2021/03/22/digital-banking-trends-evolve-in-2021-but-customer-needs-stay-the-same/?sh=5721779f1cd3)
+[McKinsey - Power of Digital Lending](https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/the-power-of-digital-lending)
+[Apollo - VersaBank](https://www.apollo.io/companies/VersaBank/5d323acdf6512538a45ae63a?chart=count)
+[VersaBank - 2021 Financials](https://www.versabank.com/versabank-achieves-record-loan-assets-with-significantly-increased-origination-activity-to-date-in-the-first-quarter-of-2021/)
+[Newswire - VersaBank Reports](https://www.versabank.com/versabank-achieves-record-loan-assets-with-significantly-increased-origination-activity-to-date-in-the-first-quarter-of-2021/)
+[Vista Equity Partners - Year in Review](https://2021.vistaequitypartners.com/year-in-review/p/1)
+[CVC - Year in Review](https://www.cvc.com.au/wp-content/uploads/CVC-Ltd-2021-AR-Web.pdf)
