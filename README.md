@@ -22,18 +22,33 @@ Another focus I think *VersaBank* should explore involves merging their CryptoVa
 
 ## Addendum 
 [VersaBank - About](https://www.versabank.com/about/)
+
 [VersaBank - Celebrates 40 Years](https://www.versabank.com/versabank-celebrates-40-years-as-canadas-bank-of-the-future/)
+
 [Crunchbase - VersaBank](https://www.crunchbase.com/organization/versabankg)
+
 [CBJ - VersaBank](https://www.cbj.ca/versabank/)
+
 [Crunchbase - VersaBank Company Financials](https://www.crunchbase.com/organization/versabank/company_financials)
+
 [Yahoo Finance - VersaBank](https://finance.yahoo.com/quote/VBNK/)
+
 [VersaBank - At a Glance](https://www.versabank.com/about/at-a-glance/)
+
 [DNB - VersaBank](https://www.dnb.com/business-directory/company-profiles.versabank.9e0aee52c866f6417b7df9aed64c7881.html)
+
 [Buisness Wire - VersaBank Bulk Purchase](https://www.businesswire.com/news/home/20160920006395/en/VersaBank-Exceeds-750-Million-Milestone-Bulk-Purchase)
+
 [Forbes - Digital Banking Trends](https://www.forbes.com/sites/lizfrazierpeck/2021/03/22/digital-banking-trends-evolve-in-2021-but-customer-needs-stay-the-same/?sh=5721779f1cd3)
+
 [McKinsey - Power of Digital Lending](https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/the-power-of-digital-lending)
+
 [Apollo - VersaBank](https://www.apollo.io/companies/VersaBank/5d323acdf6512538a45ae63a?chart=count)
+
 [VersaBank - 2021 Financials](https://www.versabank.com/versabank-achieves-record-loan-assets-with-significantly-increased-origination-activity-to-date-in-the-first-quarter-of-2021/)
+
 [Newswire - VersaBank Reports](https://www.versabank.com/versabank-achieves-record-loan-assets-with-significantly-increased-origination-activity-to-date-in-the-first-quarter-of-2021/)
+
 [Vista Equity Partners - Year in Review](https://2021.vistaequitypartners.com/year-in-review/p/1)
+
 [CVC - Year in Review](https://www.cvc.com.au/wp-content/uploads/CVC-Ltd-2021-AR-Web.pdf)
